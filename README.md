@@ -1,4 +1,9 @@
-# Atividade II CC 6Sem - Restaurante "SaborLocal"
+
+
+<p align="center">
+  <img src="https://github.com/emilyaugusto/SaborLocal_AtividadeCC_6Sem/blob/main/title.png" alt="Capa" width="100%">
+</p>
+
 
 Sistema de gestão para restaurantes desenvolvido em Java com foco em **Orientação a Objetos (OO)**.
 
